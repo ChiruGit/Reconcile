@@ -19,7 +19,7 @@ st.set_page_config(page_title="Chiran Reconciliation Web App", layout="wide")
 st.title("Chiran's Reconciliation Web App")
 
 st.markdown("""
-Upload your **First** and **Second Excel** files below to perform reconciliation.  
+Upload your **First** and **Second Excel** files below to perform reconciliation. Typically expects Col1=Transaction ID, Col2=Description, Col3=Amount 
 
 """)
 
